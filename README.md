@@ -12,7 +12,7 @@ This simple script save data about:
 
 
 **Backup data schema:**
-```json
+```
 {
     users: [
         {
